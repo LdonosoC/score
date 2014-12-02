@@ -1,8 +1,6 @@
-console.log('4');
-var app = require('../app');
-console.log('2');
+var app 		= require('../app');
+var controller 	= require('../controllers/index');
 
-app.get('/', function(){
-	console.log('routaok');
+app.get('/', controller.root);
 });
-console.log('3');
+
