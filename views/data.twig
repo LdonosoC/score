@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<title>GitScoring</title>
+	</head>
+	<body>
+		<h4>Estas visualizando GitScoring {{ project }}</h4>
+		{{ scorings }}
+		<ul>
+			{% for scoring in scorings %}
+				<li>
+					{{ scoring.login }}
+				</li>
+			{% endfor %}
+		</ul>
+
+	</body>
+</html>
