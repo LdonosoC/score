@@ -1,0 +1,694 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"owner",
+				"ownerCompany"
+			],
+			[
+				"company",
+				"companyElement"
+			],
+			[
+				"req",
+				"reqtype"
+			],
+			[
+				"amou",
+				"amountString"
+			],
+			[
+				"error",
+				"error_log"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"files",
+				"filesize"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ldonoso/Github/dokify/public/tpl/editarperfil.tpl",
+		"/Users/ldonoso/Github/dokify/public/assets/dev/js/main.js",
+		"/Users/ldonoso/Github/dokify/src/js/main.js",
+		"/Users/ldonoso/Github/dokify/public/class/documento_atributo.class.php",
+		"/Users/ldonoso/Github/dokify/public/class/solicitable.class.php",
+		"/Users/ldonoso/Github/dokify/public/class/empleado.class.php",
+		"/Users/ldonoso/Github/dokify/crontab/employee/updaterequests.php",
+		"/Users/ldonoso/Github/dokify/public/agd/empresa/signinrequest.php",
+		"/Users/ldonoso/Github/dokify/src/views/app/assignment/suggest.html",
+		"/Users/ldonoso/Github/dokify/src/Dokify/Connector/Connector.php",
+		"/Users/ldonoso/Github/dokify/src/Dokify/Controller/ConnectorDropbox.php",
+		"/Users/ldonoso/Github/dokify/src/Dokify/Dropbox/Connector/Connector.php",
+		"/Users/ldonoso/Github/dokify/public/lang/cl.json",
+		"/Users/ldonoso/Github/dokify/crontab/profile/summary.php",
+		"/Users/ldonoso/Github/dokify/dev-tools/endeve.php",
+		"/Users/ldonoso/Github/dokify/public/class/quaderno/quaderno_base.php",
+		"/Users/ldonoso/Github/dokify/public/class/empresa.class.php",
+		"/Users/ldonoso/Github/dokify/public/class/usuario.class.php",
+		"/Users/ldonoso/Github/dokify/cron/invoices.php",
+		"/Users/ldonoso/Github/dokify/public/class/invoice.class.php",
+		"/Users/ldonoso/Github/dokify/public/agd/index.php",
+		"/Users/ldonoso/Github/dokify/test/itas.php",
+		"/Users/ldonoso/Github/dokify/test/tc2.php",
+		"/Users/ldonoso/Github/dokify/public/class/signinRequest.class.php",
+		"/Users/ldonoso/Github/dokify/public/agd/documentacionriesgos.php",
+		"/Users/ldonoso/Github/dokify/src/Dokify/Domain/Employee/Checkin/Checkin.php",
+		"/Users/ldonoso/Library/Application Support/Sublime Text 2/Packages/Phpcs/phpcs.sublime-settings",
+		"/Users/ldonoso/Github/dokify/public/class/documento.class.php",
+		"/Users/ldonoso/Github/dokify/public/agd/configurar/modificar.php",
+		"/Users/ldonoso/Github/dokify/public/class/agrupamiento.class.php",
+		"/Users/ldonoso/Github/dokify/public/assets/dev/css/app.css",
+		"/Users/ldonoso/Github/dokify/test/agrupamiento.Test.php",
+		"/Users/ldonoso/Github/dokify/public/class/elemento.class.php",
+		"/Users/ldonoso/Github/dokify/public/class/empresasolicitud.class.php",
+		"/Users/ldonoso/Github/dokify/src/Dokify/Controller/Logui.php",
+		"/Users/ldonoso/Github/dokify/src/views/index.html",
+		"/Users/ldonoso/Github/dokify/public/class/log.class.php",
+		"/Users/ldonoso/Github/dokify/public/class/logui.class.php",
+		"/Users/ldonoso/Github/dokify/src/views/app/employee/logui.html",
+		"/Users/ldonoso/Github/dokify/src/views/app/logui/index.html",
+		"/Users/ldonoso/Github/dokify/src/views/app/list.html",
+		"/Users/ldonoso/Github/dokify/public/class/empleadosolicitud.class.php",
+		"/Users/ldonoso/Github/dokify/cron/tdd/empresasolicitud.test.php",
+		"/Users/ldonoso/Github/dokify/public/lang/en.json",
+		"/Users/ldonoso/Github/dokify/test/altas.php",
+		"/Users/ldonoso/Github/dokify/public/agd/empleado/listado.php",
+		"/Users/ldonoso/Github/dokify/public/class/documento_historico.class.php",
+		"/Users/ldonoso/Github/dokify/public/lang/es.json",
+		"/Users/ldonoso/Github/dokify/public/class/exportacion_masiva.class.php",
+		"/Users/ldonoso/Github/dokify/public/agd/empleado/altass.php",
+		"/Users/ldonoso/Github/dokify/public/func/cmd/massexport.php",
+		"/Users/ldonoso/Github/dokify/public/class/archivo.class.php",
+		"/Users/ldonoso/Github/dokify/cron/cleaner.php",
+		"/Users/ldonoso/Github/dokify/public/config.php",
+		"/Users/ldonoso/Github/dokify/crontab/company/updaterequests.php",
+		"/Users/ldonoso/Github/dokify/src/views/appcache.txt",
+		"/Users/ldonoso/Github/dokify/src/routes/qr.php",
+		"/Users/ldonoso/Github/dokify/public/qr.php",
+		"/Users/ldonoso/Github/dokify/sql/before/fix-4397.sql",
+		"/Users/ldonoso/Github/dokify/public/iface/Ipaypal.iface.php",
+		"/Users/ldonoso/Github/dokify/vendor/dompdf/lib/class.pdf.php",
+		"/Users/ldonoso/Github/dokify/vendor/dompdf/include/cpdf_adapter.cls.php",
+		"/Users/ldonoso/Github/backbone/examples/todos/todos.js",
+		"/Users/ldonoso/Github/dokify/vagrant/dokify.ini",
+		"/Users/ldonoso/Github/backbone/index.js",
+		"/Users/ldonoso/Github/dokify/public/agd/busqueda/exportar/documentos.php",
+		"/Users/ldonoso/Github/dokify/public/agd/plugin/zipper/index.php",
+		"/Users/ldonoso/Github/dokify/src/locale/es_ES.utf8/LC_MESSAGES/messages.po",
+		"/Users/ldonoso/Github/dokify/crontab/connector/sync.php",
+		"/Users/ldonoso/Github/dokify/crontab/connector/stuckconnector.php",
+		"/Users/ldonoso/Github/dokify/public/class/plantillaemail.class.php",
+		"/Users/ldonoso/Github/dokify/src/Dokify/Controller/Mailtpl.php",
+		"/Users/ldonoso/Github/dokify/src/Dokify/Controller/Contact.php",
+		"/Users/ldonoso/Github/dokify/src/views/app/contact/show.html",
+		"/Users/ldonoso/Github/dokify/src/Dokify/Controller/Requestable.php",
+		"/Users/ldonoso/Github/dokify/public/class/email.class.php",
+		"/Users/ldonoso/Github/dokify/src/views/app/footer.html",
+		"/Users/ldonoso/Github/dokify/src/sass/app.sass"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<div id=\"all-options-wrap\"",
+			"<div id=\"all-options-wrap\" {if ($rolactual instanceof rol)}style=\"display: none",
+			"<div id=\"all-options-wrap\" {if ($rolactual instanceof rol)}style=\"display: none;\"{/if} ",
+			"{if 0}",
+			"0",
+			"%}'])",
+			"representante-legal",
+			"fremap",
+			"getfile",
+			"getActivitySummary",
+			"updateActivityData",
+			"cron",
+			"updateActivityData",
+			"Is not selected any company",
+			"ACCOUNT_ID",
+			"API_KEY",
+			">\n",
+			"Invoice not found",
+			"Invoice not found2",
+			"Invoice not found",
+			"createin",
+			"<?",
+			"cron",
+			"isstaff",
+			"jobDescription",
+			"	$sustituciones['{descripcion-puesto}'] = $jobDescription;\njobDescription",
+			"jobDescription",
+			"descripcion-puesto",
+			"descripcion purest",
+			"okSummary",
+			"cron",
+			"filters",
+			"visible_self",
+			"modificar",
+			"visib",
+			"config_filter",
+			"edit",
+			"visibilityç",
+			"PUBLIFIELDS_MODE_VISIBILITY",
+			"visibility",
+			"PUBLIFIELDS_MODE_VISIBILITY",
+			"isible_self",
+			"create",
+			"const TABLE = 'agd_docs.documento_maquina_estado';",
+			"const TABLE = 'agd_docs.documento_empleado_estado';",
+			"Error: No se encuentra el perfil activo para e",
+			"Error: No se encuentra el perfil activo para el usuario 1",
+			"cron",
+			"cro",
+			"20",
+			"perpage",
+			"SELF",
+			"SELF_E",
+			"SELF_EMPLOYED",
+			"SELF_EMPLOYED_RECEIP",
+			"SELF_EMPLOYED_RECEIPT",
+			"search_most_repeated",
+			"search_most_repeated¡",
+			"search_most_repeated",
+			"autonomo",
+			"isita",
+			"ita",
+			"altass",
+			"date",
+			"altass",
+			"alta",
+			"date",
+			"bloquear	",
+			"bloquear",
+			"bloqu",
+			"estaBloqueada",
+			"bloque",
+			"blo",
+			"bloc",
+			"block",
+			"vlock",
+			"generarExportacion",
+			"Ocurrió un error al generar la exportacion",
+			"generar",
+			"Ocurrió un error al ",
+			"Ocurrió un error al genera",
+			"Ocurrió un error al generar ",
+			"Ocurrió un error al generar la expo",
+			"Ocurrió un error al generar la exportacion backup",
+			"zip",
+			"exportacion_error_crear_zip",
+			"Error while creating a zip file",
+			" Error while creating a zip file",
+			"error_desconocido",
+			"Error Desconocido. Inténtalo De Nuevo Más Tarde",
+			"Error",
+			"Error Desconocido. Inténtalo De Nuevo Más Tarde",
+			"getPDFDatePriorityMethod",
+			"tc2",
+			"throw",
+			"caducado",
+			"actualizar",
+			"USER_INACTIVE_TIME",
+			"betates",
+			"allowed",
+			"Allowed",
+			"allo",
+			"kil",
+			"killed",
+			"canvas",
+			"localhost",
+			" Serialization of 'Closure' is not allowed",
+			"Working for %num_clients% clients",
+			"Trabajando par",
+			"Create new company",
+			"\"Crear",
+			"Create company",
+			"\"crear",
+			"\"Editar",
+			"\"Modificar",
+			"const LANGUAGE",
+			"language",
+			"Working with %companies% companies",
+			"The file %file% is available"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"public/tpl/editarperfil.tpl",
+				"public/tpl/editarperfil.tpl"
+			],
+			[
+				"main.js",
+				"public/assets/dev/js/main.js"
+			],
+			[
+				"signin",
+				"public/agd/empresa/signinrequest.php"
+			],
+			[
+				"documento_at",
+				"public/class/documento_atributo.class.php"
+			],
+			[
+				"updatere",
+				"crontab/employee/updaterequests.php"
+			],
+			[
+				"solictable",
+				"public/class/solicitable.class.php"
+			],
+			[
+				"empleado",
+				"public/class/empleado.class.php"
+			],
+			[
+				"connectorco",
+				"src/Dokify/Connector/Connector.php"
+			],
+			[
+				"controllerdrop",
+				"src/Dokify/Controller/ConnectorDropbox.php"
+			],
+			[
+				"dropboxconnector",
+				"src/Dokify/Dropbox/Connector/Connector.php"
+			],
+			[
+				"crontab/profile/summary.php",
+				"crontab/profile/summary.php"
+			],
+			[
+				"empresa.clas",
+				"public/class/empresa.class.php"
+			],
+			[
+				"quaderno",
+				"public/class/quaderno/quaderno_base.php"
+			],
+			[
+				"endeve.",
+				"dev-tools/endeve.php"
+			],
+			[
+				"profile/sum",
+				"crontab/profile/summary.php"
+			],
+			[
+				"suggest",
+				"src/views/app/assignment/suggest.html"
+			],
+			[
+				"invoice.",
+				"cron/invoices.php"
+			],
+			[
+				"invoi",
+				"public/class/invoice.class.php"
+			],
+			[
+				"empresa.",
+				"public/class/empresa.class.php"
+			],
+			[
+				"invoice",
+				"public/class/invoice.class.php"
+			],
+			[
+				"usuario.clas",
+				"public/class/usuario.class.php"
+			],
+			[
+				"empleado.clas",
+				"public/class/empleado.class.php"
+			],
+			[
+				"index.ph",
+				"public/agd/index.php"
+			],
+			[
+				"checkin.php",
+				"src/Dokify/Domain/Employee/Checkin/Checkin.php"
+			],
+			[
+				"tc2",
+				"test/tc2.php"
+			],
+			[
+				"test/ita",
+				"test/itas.php"
+			],
+			[
+				"documento.cla",
+				"public/class/documento.class.php"
+			],
+			[
+				"agrupamiento.clas",
+				"public/class/agrupamiento.class.php"
+			],
+			[
+				"configurar/modificar.php",
+				"public/agd/configurar/modificar.php"
+			],
+			[
+				"configurar/modfi",
+				"public/agd/configurar/modificar.php"
+			],
+			[
+				"agrupamiento",
+				"public/class/agrupamiento.class.php"
+			],
+			[
+				"empresa.ca",
+				"public/class/empresa.class.php"
+			],
+			[
+				"app.css",
+				"public/assets/dev/css/app.css"
+			],
+			[
+				"controller/log",
+				"src/Dokify/Controller/Logui.php"
+			],
+			[
+				"empresasolicitu",
+				"public/class/empresasolicitud.class.php"
+			],
+			[
+				"empresasolci",
+				"public/class/empresasolicitud.class.php"
+			],
+			[
+				"empresasolici",
+				"cron/tdd/empresasolicitud.test.php"
+			],
+			[
+				"empleadosolicit",
+				"public/class/empleadosolicitud.class.php"
+			],
+			[
+				"controller/logui.php",
+				"src/Dokify/Controller/Logui.php"
+			],
+			[
+				"app/list.html",
+				"src/views/app/list.html"
+			],
+			[
+				"app/logui/index.html",
+				"src/views/app/logui/index.html"
+			],
+			[
+				"logui.t",
+				"src/views/app/employee/logui.html"
+			],
+			[
+				"logui",
+				"public/class/logui.class.php"
+			],
+			[
+				"log.",
+				"public/class/log.class.php"
+			],
+			[
+				"en.json",
+				"public/lang/en.json"
+			],
+			[
+				"documento",
+				"public/class/documento.class.php"
+			],
+			[
+				"alta",
+				"test/altas.php"
+			],
+			[
+				"archivo.c",
+				"public/class/archivo.class.php"
+			],
+			[
+				"es.j",
+				"public/lang/es.json"
+			],
+			[
+				"exportm",
+				"public/class/exportacion_masiva.class.php"
+			],
+			[
+				"documento.clas",
+				"public/class/documento.class.php"
+			],
+			[
+				"documentos.clas",
+				"public/class/documento_historico.class.php"
+			],
+			[
+				"empresa.cla",
+				"public/class/empresa.class.php"
+			],
+			[
+				"listado",
+				"public/agd/empleado/listado.php"
+			],
+			[
+				"emplead",
+				"public/class/empleado.class.php"
+			],
+			[
+				"config.",
+				"public/config.php"
+			],
+			[
+				"clean",
+				"cron/cleaner.php"
+			],
+			[
+				"cleaner",
+				"cron/cleaner.php"
+			],
+			[
+				"usuario",
+				"public/class/usuario.class.php"
+			],
+			[
+				"company/upda",
+				"crontab/company/updaterequests.php"
+			],
+			[
+				"fix-4397",
+				"sql/before/fix-4397.sql"
+			],
+			[
+				"qr",
+				"public/qr.php"
+			],
+			[
+				"appca",
+				"src/views/appcache.txt"
+			],
+			[
+				"ipaypal",
+				"public/iface/Ipaypal.iface.php"
+			],
+			[
+				"dompdf/include/cpdf_adapter.cls.php",
+				"vendor/dompdf/include/cpdf_adapter.cls.php"
+			],
+			[
+				"exportar/documen",
+				"public/agd/busqueda/exportar/documentos.php"
+			],
+			[
+				"public/agd/plugin/zipper/index.php",
+				"public/agd/plugin/zipper/index.php"
+			],
+			[
+				"es.po",
+				"src/locale/es_ES.utf8/LC_MESSAGES/messages.po"
+			],
+			[
+				"crontab/connector/sync.php",
+				"crontab/connector/sync.php"
+			],
+			[
+				"crontab/connector/stuckconnector.php",
+				"crontab/connector/stuckconnector.php"
+			],
+			[
+				"plantillaemail.cl",
+				"public/class/plantillaemail.class.php"
+			],
+			[
+				"mailtpl",
+				"src/Dokify/Controller/Mailtpl.php"
+			],
+			[
+				"controllercontact",
+				"src/Dokify/Controller/Contact.php"
+			],
+			[
+				"viewcontactshow",
+				"src/views/app/contact/show.html"
+			],
+			[
+				"archivo",
+				"public/class/archivo.class.php"
+			],
+			[
+				"empresa.class",
+				"public/class/empresa.class.php"
+			],
+			[
+				"requestable",
+				"src/Dokify/Controller/Requestable.php"
+			],
+			[
+				"email.clas",
+				"public/class/email.class.php"
+			],
+			[
+				"src/views/app/footer.html",
+				"src/views/app/footer.html"
+			],
+			[
+				".sass",
+				"src/sass/app.sass"
+			],
+			[
+				"sublime",
+				"dev-tools/sublime/dokify.sublime-project"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true
+}
