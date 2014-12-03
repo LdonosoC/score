@@ -19,7 +19,7 @@ var getscoring = function (req, res, cb) {
 			return;
 		}
 
-	var scorings = body;
+	var scorings = JSON.parse(body);
 	render(scorings);
 
 	});
