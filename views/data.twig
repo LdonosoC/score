@@ -1,17 +1,13 @@
 <html>
 	<head>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 		<title>GitScoring</title>
 	</head>
 	<body>
-		<h4>Estas visualizando GitScoring {{ project }}</h4>
-		{{ scorings }}
-		<ul>
-			{% for scoring in scorings %}
-				<li>
-					{{ scoring.login }}
-				</li>
-			{% endfor %}
-		</ul>
+		<h4> {{ project }}: </h4>
+		<h5> Los usuarios son: </h5>
+		<p src="/{{ project }}/users">Cargando...</p>
 
+		<script src="/js/main.js"></script>
 	</body>
 </html>
