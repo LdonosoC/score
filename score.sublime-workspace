@@ -35,6 +35,17 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "Operación: RECEPCIÓN DE TRANSFERENCIA NACIONAL\nFecha: 04/12/2014 a las 11:19 horas\nImporte: 5,58 EUR\nOrdenante: Acme	\nConcepto: asdfDDKYDE9364asd\nCuenta de abono: *48308\n\nPara ver el detalle de la operación, conéctese a BS Online en bancsabadell.com.\n",
+			"file": "/Users/ldonoso/Dropbox/DOKIFY/test",
+			"file_size": 255,
+			"file_write_time": 1417682469000000,
+			"settings":
+			{
+				"buffer_size": 251,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -72,6 +83,10 @@
 	},
 	"file_history":
 	[
+		"/Users/ldonoso/Github/score/views/data.twig",
+		"/Users/ldonoso/Github/score/controllers/data.js",
+		"/Users/ldonoso/Github/score/routes/data.js",
+		"/Users/ldonoso/Github/score/init.js",
 		"/Users/ldonoso/Github/dokify/public/tpl/editarperfil.tpl",
 		"/Users/ldonoso/Github/dokify/public/assets/dev/js/main.js",
 		"/Users/ldonoso/Github/dokify/src/js/main.js",
@@ -304,8 +319,35 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/ldonoso/Dropbox/DOKIFY/test",
+					"settings":
+					{
+						"buffer_size": 251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								251,
+								251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
