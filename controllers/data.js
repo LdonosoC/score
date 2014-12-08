@@ -1,36 +1,28 @@
-var request = require('request');
+var Project = require('../models/data');
 
-var getscoring = function (req, res, cb) {
-	var owner	= req.params.owner;
-	var repo	= req.params.repo;
-	var project = owner + '/' + repo;
-	var URL 	= 'https://gitscoring.herokuapp.com/' + project;
-	var options = {
-	    url: URL,
-	    headers: {
-	        'User-Agent': 'NodeJS User-Agent',
-	        'Accept'	: "application/json" 
-	    }
-	};
+function show(req, res) {
+	var owner 	= req.params.owner;
+	var repo 	= req.params.repo;
+	var project = new Project(owner + '/' + repo);
 
-	request(options, function (err, res, body) {
-		if (err) {
-			console.log(err);
-			return;
-		}
-
-	var scorings = JSON.parse(body);
-	render(scorings);
-
+	res.render('data.twig', {
+		project: project.name
 	});
+};
 
-	var render = function (scorings) {
-		res.render('data.twig', {
+function getusers(req, res) {
+	var owner 	= req.params.owner;
+	var repo 	= req.params.repo;
+	var project = new Project(owner + '/' + repo);
+
+	project.getscoring(function (scorings) {
+		res.render('users.twig', {
 			scorings: scorings
 		});
-	};
+	});
 };
 
 module.exports = {
-	scoring: getscoring
+	users: getusers,
+	show: show, 
 };
